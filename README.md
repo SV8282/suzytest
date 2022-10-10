@@ -1,0 +1,2 @@
+# suzytest
+mit class
